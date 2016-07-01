@@ -5,20 +5,22 @@ Run program.py
 Type name:
 
 Type Academy:
-	bachelor
-	magister 
+	bachelor,
+	magister,
 	doctor
+	
 Type Experience:
-	yes
-	no 
+	yes,
+	no
+	
 Type English Level:
-  elementary
-  intermediate
+  elementary,
+  intermediate,
   advanced
 
 Type Knowlegde:
-  low
-  medium 
+  low,
+  medium, 
   high
 
 Example: ben magister yes intermediate high
