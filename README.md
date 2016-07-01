@@ -3,7 +3,7 @@
 Run program.py
 
 Type name:
-
+	"Anyone"
 Type Academy:
 	bachelor,
 	magister,
@@ -25,6 +25,6 @@ Type Knowlegde:
 
 Example: ben magister yes intermediate high
 
-AND it will answer 'Accepter' or 'Rejected' by looking on description
+AND it will answer 'Accepted' or 'Rejected' by looking on description
 
 Algorithm: Bayes (Probability)
